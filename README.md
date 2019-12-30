@@ -1,6 +1,5 @@
-# flypthon_daily
+# 飞蟒Python日报
 
-飞蟒Python日报
 
 #### 订阅地址：
 
